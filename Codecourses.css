@@ -1,0 +1,117 @@
+body{
+    background-color: #1A1A62 ;
+    margin:0px;
+    font-family: monospace;
+}
+
+#header{
+    z-index:2;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    color:white;
+    text-align: center;
+    font-size: 35px;
+    background-color: #0D0D40;
+}
+
+.menu{
+    background-color: #0D0D40;
+    color:white;
+    float:right;
+    position: relative;
+    right:50px;
+    border: 2px white solid;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 2px 10px;
+}
+
+.search{
+    position: relative;
+    top: -15px;
+    left:580px;
+    background-color:#4848A1;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.header-2{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    margin: 50px;
+}
+
+.box{
+    background-color: #CBCBE9 ;
+    width:750px;
+    height: 200px;
+    margin:auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.text{
+    padding: 15px;
+    font-size: 20px;
+    color: #6968E6 ;
+}
+
+.text-2{
+    padding-top: 3px;
+    padding-left: 15px;
+    font-size: 20px;
+    color: #6968E6 ;
+}
+
+.donate{
+    text-align: center;
+    padding: 20px;
+    padding-left: 270px;
+    padding-right: 270px;
+    position: relative;
+    top: 20px;
+}
+
+.link{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: #6968E6;
+    border: #6968E6 3px solid;
+}
+
+.link:hover{
+    color:#CBCBE9;
+    background-color:#6968E6;
+}
+
+
+.box-2{
+   margin: auto;
+   margin-top: 10px;
+   background-color: #6D6CD3;
+   width: 745px;
+   height: 80px;
+   border: 3px white solid;
+   border-radius: 15px;
+}
+
+.web{
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+    top: 5px;
+    color: white;  
+}
+
+.web:hover{
+    text-decoration: underline;
+}
+
+
+
